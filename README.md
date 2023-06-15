@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
 <head>
 <meta content="en-us" http-equiv="Content-Language">
 <style type="text/css">
@@ -66,7 +67,7 @@ VERMECELLI(50$)</p>
 </form>
 </p>
 <p>&nbsp;</p>
-
+~~~
 ## OUTPUT
 ![AGRI MARKETING](https://github.com/JeevithaParthiban/Ex09_Web-Design/assets/127817091/b8bd4b75-34ed-4b88-9c76-aad4b4044354)
 
